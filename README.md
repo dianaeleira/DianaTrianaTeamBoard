@@ -213,7 +213,7 @@ Para terminar la ejecución del servidor, se presiona **Ctrl+c**.
 ## Usuarios
 
 Visualización las colleciones roles y users creadas previamente en MongoDB por medio de compass:
-![](./assets/img/20210817/dbscrumdt.png)
+![](./assets/img/dbscrumdt.png)
 
 1. Visualización de los usuarios:
 ![](./assets/img/users.png)
@@ -223,5 +223,5 @@ Visualización las colleciones roles y users creadas previamente en MongoDB por 
 
 
 3.  Visualización de la imagen en el navegador:
-![](./assets/img/20210817/imgUrl.png) 
+![](./assets/img/imgUrl.png) 
 
